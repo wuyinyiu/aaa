@@ -1,0 +1,22 @@
+.top{
+	background: #f75e46;
+}
+.bor{
+	border-bottom: 2px solid #fff;
+}
+.foot{
+	border-top:4px solid #f75e46;
+}
+.main_content_right em{
+	background: url(../img/cAD_txt.png) no-repeat center;
+	background-size: cover;
+}
+.main_content_left form a{
+	color: #f75e46;
+	margin-left: 5px;
+}
+#btn{
+	margin-left: 54px;
+	background: #f75e46;
+	color: #fff;
+}

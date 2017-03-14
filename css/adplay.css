@@ -1,0 +1,346 @@
+/*banner*/
+.ad_banner_center{
+	width:1170px;
+	height: 100%;
+	margin: 0 auto;
+}
+.banner_text{
+	width: 50%;
+	height:360px;
+	float: left;
+	padding-top: 100px;
+}
+.banner_text .banner_text_big{
+	width: 100%;
+	line-height: 61px;
+	color: #fff;
+	font-size: 45px;
+}
+.banner_text .banner_text_small{
+	width: 100%;
+	line-height:32px;
+	color: #fff;
+	font-size: 16px;
+}
+.banner_text span{
+	display:block;
+	width: 100%;
+	height: 42px;
+	margin-top: 20px;
+}
+.banner_text span a{
+	display: block;
+	width: 162px;
+	height: 40px;
+	border: 1px solid #fff;
+	text-align: center;
+	line-height: 40px;
+	font-size: 16px;
+	color: #fff;
+}
+.banner_right_pic{
+	width: 50%;
+	float: left;
+	height: 100%;
+	background:url(../img/ptys_banner.png) no-repeat center;
+	background-size: 100%;
+}
+/*主题*/
+.main{
+	width: 100%;
+	height: auto;
+	background: #f6f6f6;
+}
+.main_ad_type{
+	width: 1170px;
+	height: 769px;
+	border-bottom: 1px solid #bfbfbf;
+	margin: 0 auto;
+	padding-top: 60px;
+}
+.main_ad_type h2{
+	width: 100%;
+	height: 80px;
+	line-height: 80px;
+	font-size: 34px;
+	text-align: center;
+	color: #313131;
+	position: relative;
+}
+.main_ad_type h2:after{
+	content: "";
+	width: 80px;
+	height: 3px;
+	background: #f75e46;
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	margin-left: -40px;
+}
+.main_ad_type_left{
+	width: 44%;
+	height: 549px;
+	float: left;
+	padding: 40px 0 100px 0 ;
+}
+.main_ad_type_left img{
+	height: 549px;
+	width: 265px;
+	margin: 0 auto;
+}
+.main_ad_type_right dl:nth-child(1) .act{
+	background: url(../img/wanfa_type1_r.png) no-repeat center;
+}
+.main_ad_type_right dl:nth-child(1) dt img{
+	display: none;
+}
+.main_ad_type_right dl:nth-child(2) .act{
+	background: url(../img/wanfa_type2_r.png) no-repeat center;
+}
+.main_ad_type_right dl:nth-child(3) .act{
+	background: url(../img/wanfa_type3_r.png) no-repeat center;
+}
+.main_ad_type_right dl:nth-child(4) .act{
+	background: url(../img/wanfa_type4_r.png) no-repeat center;
+}
+.main_ad_type_right dl:nth-child(5) .act{
+	background: url(../img/wanfa_type5_r.png) no-repeat center;
+}
+.main_ad_type_right{
+	width: 56%;
+	float: left;
+	height: 599px;
+	padding-top: 90px;
+}
+.main_ad_type_right dl{
+	width: 100%;
+	height: 70px;
+	margin-bottom: 30px;
+	cursor: pointer;
+}
+.main_ad_type_right dl dt{
+	width: 70px;
+	height: 70px;
+	padding-left: 10px;
+	float: left;
+}
+.main_ad_type_right dl dd{
+	padding-left: 25px;
+	width: 400px;
+	line-height: 20px;
+	color: #5e5e5e;
+	float: left;
+}
+.main_ad_type_right dl .title{
+	font-size: 20px;
+	line-height: 35px;
+	color: #5e5e5e;
+}
+.main_ad_type_right dl .dl_color{
+	color: #f75e46;
+}
+.main_ad_type_right dl .act_color{
+	color: #f75e46;
+}
+/**************广告形式*************/
+.main_ad_form{
+	width: 1170px;
+	height: 769px;
+	border-bottom: 1px solid #bfbfbf;
+	margin: 0 auto;
+	padding-top: 60px;
+}
+.main_ad_form h2{
+	width: 100%;
+	height: 80px;
+	line-height: 80px;
+	font-size: 34px;
+	text-align: center;
+	color: #313131;
+	position: relative;
+}
+.main_ad_form h2:after{
+	content: "";
+	width: 80px;
+	height: 3px;
+	background: #f75e46;
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	margin-left: -40px;
+}
+.main_ad_form_right{
+	width: 44%;
+	height: 549px;
+	float: right;
+	padding: 40px 0 100px 0 ;
+}
+.main_ad_form_right img{
+	height: 549px;
+	width: 265px;
+	margin: 0 auto;
+}
+.main_ad_form_left{
+	width: 56%;
+	float: left;
+	height: 599px;
+	padding-top: 90px;
+}
+.main_ad_form_left dl{
+	width: 100%;
+	height: 70px;
+	margin-bottom: 30px;
+	cursor: pointer;
+}
+.main_ad_form_left dl dt{
+	width: 70px;
+	height: 70px;
+	padding-right:10px;
+	float: right;
+}
+.main_ad_form_left dl dd{
+	/*padding-left: 25px;*/
+	width: 400px;
+	line-height: 26px;
+	color: #5e5e5e;
+	float: right;
+}
+.main_ad_form_left dl:nth-child(1) .act{
+	background: url(../img/wanfa_xingshi1_r.png) no-repeat center;
+}
+.main_ad_form_left dl:nth-child(1) dt img{
+	display: none;
+}
+.main_ad_form_left dl:nth-child(2) .act{
+	background: url(../img/wanfa_xingshi2_r.png) no-repeat center;
+	
+}
+.main_ad_form_left dl:nth-child(3) .act{
+	background: url(../img/wanfa_xingshi3_r.png) no-repeat center;
+}
+.main_ad_form_left dl:nth-child(4) .act{
+	background: url(../img/wanfa_xingshi4_r.png) no-repeat center;
+}
+.main_ad_form_left dl:nth-child(5) .act{
+	background: url(../img/wanfa_xingshi5_r.png) no-repeat center;
+}
+
+.main_ad_form_left dl .title{
+	font-size: 20px;
+	line-height: 35px;
+	color: #5e5e5e;
+}
+.main_ad_form_left dl .dl_color{
+	color: #f75e46;
+}
+.main_ad_form_left dl .act_color{
+	color: #f75e46;
+}
+/*投放支持*/
+.main_support{
+	width: 1170px;
+	height: 780px;
+	margin: 0 auto;
+}
+.main_support .main_support_title{
+	width: 100%;
+	height:75px;
+	padding: 50px 0 32px;
+}
+.main_support .main_support_title h2{
+	width: 100%;
+	height: 55px;
+	line-height: 55px;
+	text-align: center;
+	font-size: 35px;
+	color: #313131;
+}
+.main_support .main_support_title p{
+	line-height: 20px;
+	width: 100%;
+	text-align: center;
+	height: 20px;
+	font-size: 16px;
+	color: #4a4b4c;
+}
+.main_support .main_support_tab{
+	width: 600px;
+	height: 41px;
+	border-bottom: 3px solid #bfbfbf;
+	margin: 0 auto;
+	padding:0 45px;
+}
+.main_support .main_support_tab li{
+	float: left;
+	width: 200px;
+	text-align: center;
+}
+.main_support .main_support_tab li a{
+	display: inline-block;
+	height: 41px;
+	line-height: 41px;
+	font-size: 14px;
+}
+.main_support .main_support_tab li .hover{
+	border-bottom: 3px solid #f75e46;
+	color: #f75e46;
+}
+.main_support .main_support_tab li a:hover{
+	border-bottom: 3px solid #f75e46;
+	color: #f75e46;
+}
+.main_support .main_support_tab_mes{
+	font-size: 16px;
+	text-align: center;
+	line-height: 80px;
+}
+.main_support_img{
+	width: 640px;
+	height: 400px;
+	margin:0 auto;
+}
+.main_support_img .main_support_img_left{
+	float: left;
+	width:170px;
+	height: 300px;
+	margin:0 16.66px;
+	padding-top:50px;
+}
+.main_support_img .main_support_img_right{
+	width: 170px;
+	height:300px;
+	margin:0 16.66px;
+	float:left;
+	padding-top:50px;
+}
+.main_support_img .main_support_img_center{
+	float:left;
+	width:200px;
+	margin:0 16.66px;
+	height: 355px;
+	padding-top:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

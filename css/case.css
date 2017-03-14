@@ -1,0 +1,160 @@
+.ad_banner{
+	background:#f75e46  url(../img/case_banner_pic.png) no-repeat center bottom!important;
+	background-size:95%!important;
+}
+.case_banner p{
+	display: block;
+	width: 100%;
+	text-align: center;
+	line-height: 50px;
+	font-size: 34px;
+	color: #fff;
+	height: 50px;
+}
+.case_banner .pad{
+	padding-top: 30px
+}
+.case_list{
+	width: 1170px;
+	height: 635px;
+	min-height: 635px;
+	height: auto!important;
+	margin: 0 auto;
+}
+.case_list .case_list_select{
+	width: 100%;
+	height: 120px;
+}
+.case_list .case_list_select .case_list_select_title{
+	width: 200px;
+	height: 120px;
+	text-align: center;
+	float: left;
+	font-size: 16px;
+	text-align: center;
+	line-height: 120px;
+}
+.select_com{
+	float: left;
+	width: 203px;
+	height: 38px;
+	border: 1px solid #adadad;
+	margin:40px 30px 0 0;
+	position: relative;
+	cursor: pointer;
+}
+.select_com .select_lis{
+	display: none;
+	position: absolute;
+	top: 39px;
+	left: -1px;
+	border-left: 1px solid #adadad;
+	border-right: 1px solid #adadad;
+	border-bottom: 1px solid #adadad;
+	z-index: 9999;
+	width: 100%;
+}
+.select_com .select_lis li a{
+	display: block;
+	width: 100%;
+	height: 38px;
+	line-height: 38px;
+	font-size: 12px;
+	text-align: center;
+	background: #fff;
+}
+.select_com .select_lis li a:hover{
+	background: #ededed;
+	color: #f75e46;
+}
+.select_com p{
+	padding-left: 20px;
+	line-height: 38px;
+	color:#838383;
+	background: url(../img/icon_select_j.png) no-repeat 95% center;
+}
+.case_list_main{
+	width: 100%;
+	height: auto;
+}
+.case_list_main .case_list_li{
+	float: left;
+	width: 322px;
+	height: 310px;
+	padding: 10px;
+	border:1px solid #fff;
+	margin: 20px;
+}
+.case_list_main .case_list_li .list_dl{
+	width:322px;
+	height:250px;
+	border-bottom:1px solid #bfbfbf;
+}
+.case_list_main .case_list_li .list_dl dt{
+	width: 100%;
+	height: 175px;
+	overflow: hidden;
+}
+.case_list_main .case_list_li .list_dl .list_dl_title{
+	width: 100%;
+	line-height: 30px;
+	font-size: 16px;
+	color: #2b2b2b;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow:ellipsis;
+}
+.case_list_main .case_list_li .list_dl .list_dl_dd a{
+	font-size: 14px;
+	color: #3a3a3a;
+}
+.case_list_li .list_data{
+	width: 100%;
+	height: 65px;
+}
+.case_list_li .list_data span{
+	display: inline-block;
+	width: 90px;
+	height: 50px;
+	padding-top: 15px;
+}
+.case_list_li .list_data span em{
+	display: inline-block;
+	width: 100%;
+	line-height: 30px;
+	font-size: 18px;
+	color: #e62527;
+}
+.case_list_li .list_data span i{
+	display: inline-block;
+	font-size: 14px;
+	color: #686868;
+	line-height: 20px;
+	font-style: normal;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow:ellipsis;
+}
+.case_more{
+	width: 100%;
+	height: 116px;
+	float: left;
+}
+.case_more .case_more_btn{
+	display: block;
+	width: 236px;
+	height: 56px;
+	border: 1px solid #f75e46;
+	line-height: 56px;
+	text-align: center;
+	margin:30px auto;
+	font-size: 16px;
+	color: #f75e46;
+	cursor: pointer;
+}
+
+
+
+
+
+

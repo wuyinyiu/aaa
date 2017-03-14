@@ -1,0 +1,21 @@
+.top{
+	background: #00afec;
+}
+.foot{
+	border-top:4px solid #00afec;
+}
+.main_content_left form a{
+	color: #00afec;
+	margin-left: 5px;
+}
+#btn{
+	margin-left: 54px;
+	background: #00afec;
+	color: #fff;
+}
+.nav li{
+	visibility:hidden;
+}
+.nav li:last-child{
+	visibility:visible;
+}

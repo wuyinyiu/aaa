@@ -1,0 +1,332 @@
+/****************平台优势样式*******************/
+/*banner*/
+.ad_banner_center{
+	width:1170px;
+	height: 100%;
+	margin: 0 auto;
+}
+.banner_text{
+	width: 50%;
+	height:360px;
+	float: left;
+	padding-top: 100px;
+}
+.banner_text .banner_text_big{
+	width: 100%;
+	line-height: 61px;
+	color: #fff;
+	font-size: 45px;
+}
+.banner_text .banner_text_small{
+	width: 100%;
+	line-height:32px;
+	color: #fff;
+	font-size: 16px;
+}
+.banner_text span{
+	display:block;
+	width: 100%;
+	height: 42px;
+	margin-top: 20px;
+}
+.banner_text span a{
+	display: block;
+	width: 162px;
+	height: 40px;
+	border: 1px solid #fff;
+	text-align: center;
+	line-height: 40px;
+	font-size: 16px;
+	color: #fff;
+}
+.banner_right_pic{
+	width: 50%;
+	float: left;
+	height: 100%;
+	background:url(../img/ptys_banner.png) no-repeat center;
+	background-size: 100%;
+}
+/*E起发趣味新广告的优势*/
+.section_one{
+	width: 100%;
+	height: 636px;
+	padding: 6px 0 65px;
+	background: #fff;
+}
+.section_one h2{
+ 	width: 100%;
+ 	height: 154px;
+ 	font-size: 34px;
+ 	color: #4f4f4f;
+ 	text-align: center;
+ 	line-height: 154px;
+ }
+.section_one .table{
+	width: 1170px;
+	height: 482px;
+	margin: 0 auto;
+}
+.section_one .table ul{
+	float: left;
+	border-right:2px solid #fff;
+}
+.section_one .table ul li:first-child{
+	font-size: 16px;
+}
+.section_one .table ul li{
+	font-size: 14px;
+}
+.section_one .table .table_one{
+	width: 16%;
+	height: 100%;
+}
+.section_one .table .table_one li{
+	text-align: center;
+	line-height: 94px;
+	height: 94px;
+	background: #ffeab2;
+	color: #4f4f4f;
+	border-top: 2px solid #fff;
+}
+.section_one .table .table_one li:first-child{
+	background: #ffc619;
+}
+.section_one .table .table_two{
+	width: 24%;
+	height: 100%;
+}
+.section_one .table .table_two li{
+	padding:22px 20px 0;
+	line-height:20px;
+	height:72px;
+	background: #eaeaea;
+	color: #4f4f4f;
+	border-top: 2px solid #fff;
+}
+.section_one .table .table_two li:first-child{
+	background: #d9d9d9;
+	text-align: center;
+	line-height: 94px;
+	height: 94px;
+	padding: 0;
+}
+
+.section_one .table .table_three{
+	width: 24%;
+	height: 100%;
+}
+.section_one .table .table_three li{
+	padding:22px 20px 0;
+	line-height:20px;
+	height:72px;
+	background: #f6f6f6;
+	color: #4f4f4f;
+	border-top: 2px solid #fff;
+}
+.section_one .table .table_three li:first-child{
+	background: #e5e5e5;
+	text-align: center;
+	line-height: 94px;
+	height: 94px;
+	padding: 0;
+}
+.section_one .table .table_four{
+	width: 30%;
+	height: 100%;
+}
+.section_one .table .table_four li{
+	padding:22px 20px 0;
+	line-height:20px;
+	height:72px;
+	background: #fce9e9;
+	color: #f75e46;
+	border-top: 2px solid #fff;
+}
+.section_one .table .table_four li:nth-child(2),.section_one .table .table_four li:nth-child(3){
+	height: 94px;
+	padding: 0;
+	line-height: 94px;
+	text-align: center;
+}
+.section_one .table .table_two li:nth-child(2),.section_one .table .table_two li:nth-child(3){
+	height: 94px;
+	padding:0 0 0 20px;
+	line-height: 94px;
+}
+.section_one .table .table_three li:nth-child(3){
+	height: 94px;
+	padding:0 0 0 20px;
+	line-height: 94px;
+}
+.section_one .table .table_four li:first-child{
+	background: #f75e46;
+	color:#fff;
+	text-align: center;
+	line-height: 94px;
+	height: 94px;
+	padding: 0;
+}
+
+/*覆盖人群*/
+.section_two{
+	width: 100%;
+	height: 600px;
+	background: #f0f0f0;
+}
+.section_two_center{
+	width: 1170px;
+	height: 600px;
+	margin: 0 auto;
+}
+.section_two .section_two_left{
+	width: 650px;
+	height: 480px;
+	margin:65px 0 65px 0;
+	background: #f75e46;
+	float: left;
+	background: url(../img/pingtai_pic_huoyue.png) no-repeat center;
+	background-size: 90%;
+}
+.section_two .section_two_right{
+	width: 400px;
+	height: 320px;
+	padding:157px 0 0;
+	float: right;
+}
+.section_two .section_two_right p{
+	line-height: 48px;
+	font-size: 36px;
+	color: #4f4f4f;
+}
+.section_two .section_two_right article{
+	width:80%;
+	line-height: 26px;
+	color: #4f4f4f;
+	margin-top: 15px;
+}
+.section_two .section_two_right .btn a{
+	display: block;
+	width: 275px;
+	height: 50px;
+	color: #fff;
+	background: #f75e46;
+	line-height: 50px;
+	text-align: center;
+	margin-top: 36px;
+}
+/*精准的广告投放*/
+.section_three{
+	width: 100%;
+	height: 585px;
+	background: #fff;
+	padding-top: 45px
+}
+.section_three h2{
+	width: 100%;
+	height: 74px;
+	line-height: 74px;
+	color: #4f4f4f;
+	font-size: 34px;
+	text-align: center;
+}
+.section_three p{
+	width: 100%;
+	line-height: 24px;
+	font-size: 16px;
+	text-align: center;
+}
+.section_three .accurate{
+	width:1170px;
+	height:415px;
+	padding-top:80px; 
+	margin: 0 auto;
+}
+.section_three .accurate dl{
+	width:40%;
+	height:140px;
+	float: left;
+	margin-bottom: 40px;
+}
+.section_three .accurate .accurate_right{
+	margin-left: 20%;
+}
+.section_three .accurate dl dt{
+	float: left;
+	width: 112px;
+	height:112px;
+}
+.section_three .accurate dl dd{
+	width: 62%;
+	font-size: 14px;
+	line-height: 20px;
+	color: #4f4f4f; 
+	float: right;
+}
+.section_three .accurate dl .accurate_dd{
+	font-size: 22px;
+	line-height: 54px
+}
+.section_three .accurate  dl .dl_color{
+	color: #f75e46;
+}
+/*管理模式*/
+.section_four{
+	width: 100%;
+	height: 580px;
+	background: #f0f0f0;
+}
+.section_four h2{
+	width: 100%;
+	height: 165px;
+	line-height: 165px;
+	text-align: center;
+	color: #4f4f4f;
+	font-size: 34px;
+}
+
+.section_four .manage_list{
+	width:1170px;
+	margin: 0 auto;
+	height: 415px;
+}
+.section_four .manage_list dl{
+	float: left;
+	height: 100%;
+	width: 18.4%;
+	margin: 0 3.3%;
+}
+.section_four .manage_list dl dd{
+	width: 100%;
+	height: 63px;
+	line-height: 63px;
+	text-align: center;
+	color: #595959;
+	font-size: 22px;
+}
+.section_four .manage_list dl .mes{
+	height: auto;
+	text-align: left;
+	line-height: 20px;
+	font-size: 14px;
+}
+.section_four .manage_list dl dt{
+	width: 132px;
+	height: 153px;
+	margin: 0 auto;
+	margin-bottom: 48px;
+	position: relative;
+}
+.section_four .manage_list dl .shadow:after{
+	content: "";
+	width: 130px;
+	height:42px;
+	position: absolute;
+	bottom: -45px;
+	left: 0;
+	background: url(../img/pingtai_icon_touyin.png) no-repeat center;
+}
+
+.section_four .manage_list dl dt img{
+	width: 100%;
+	height:100%;
+}
